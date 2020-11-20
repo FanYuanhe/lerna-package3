@@ -1,0 +1,24 @@
+{
+  "name": "lerna-package3-app",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "fanyuanhe <fanyuanhe@baidu.com>",
+  "homepage": "",
+  "license": "ISC",
+  "private": true,
+  "main": "lib/lerna-package3-app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "lerna-package3-tools": "^0.0.0",
+    "lerna-package3-ui": "^0.0.0"
+  }
+}
