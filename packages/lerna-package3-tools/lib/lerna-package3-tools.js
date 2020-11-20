@@ -4,4 +4,8 @@ function tools () {
     console.log("我是tools");
 }
 
-module.exports = { tools }
+function updateTools () {
+    console.log("更新了tools")
+}
+
+module.exports = { tools, updateTools }
