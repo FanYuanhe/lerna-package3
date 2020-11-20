@@ -1,6 +1,6 @@
 {
   "name": "lerna-package3-app",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "fanyuanhe <fanyuanhe@baidu.com>",
   "homepage": "",
@@ -18,7 +18,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "lerna-package3-tools": "^0.0.0",
-    "lerna-package3-ui": "^0.0.0"
+    "lerna-package3-tools": "^0.0.1",
+    "lerna-package3-ui": "^0.0.1"
   }
 }
